@@ -1,0 +1,14 @@
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\bin\Debug\netcoreapp3.0\Console_Ornek.exe
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\bin\Debug\netcoreapp3.0\Console_Ornek.deps.json
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\bin\Debug\netcoreapp3.0\Console_Ornek.runtimeconfig.json
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\bin\Debug\netcoreapp3.0\Console_Ornek.runtimeconfig.dev.json
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\bin\Debug\netcoreapp3.0\Console_Ornek.dll
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\bin\Debug\netcoreapp3.0\Console_Ornek.pdb
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\obj\Debug\netcoreapp3.0\Console_Ornek.AssemblyInfoInputs.cache
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\obj\Debug\netcoreapp3.0\Console_Ornek.AssemblyInfo.cs
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\obj\Debug\netcoreapp3.0\Console_Ornek.dll
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\obj\Debug\netcoreapp3.0\Console_Ornek.pdb
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\obj\Debug\netcoreapp3.0\Console_Ornek.csproj.AssemblyReference.cache
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\obj\Debug\netcoreapp3.0\Console_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\obj\Debug\netcoreapp3.0\Console_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Batı\source\repos\Console_Ornek\Console_Ornek\obj\Debug\netcoreapp3.0\Console_Ornek.genruntimeconfig.cache
